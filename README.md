@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhilasha.
 - 🎓 I'm currently pursuing B.Tech in Computer Science and Engineering from KIIT University.
 - 👀 I’m interested in Web Development and Graphic Designing.
-- 🌱 I’ve learnt the basics of coding laguages: Python, C and C++.
+- 🌱 I’ve learnt the basics of coding languages: Python, C and C++.
 - 🗂️ I've been through the basics of MySQL and MonogoDB databases.
 - 🧩 As a part of Web Development, I am currently learning HTML and CSS.
 - 🎨 As a part of Graphic Designing, I am well acquainted with Picsart and Canva, and I'm learning Adobe Illustrator.
