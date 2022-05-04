@@ -5,16 +5,8 @@
 - 🗂️ I've been through the basics of MySQL and MonogoDB databses.
 - 🧩 As a part of Web Development, I am currently learning HTML and CSS.
 - 🎨 As a part of Graphic Designing, I am well acquainted with Picsart and Canva, and I'm learning Adobe Illustrator.
-- 📌 My major hobbies include:
-         📝 Content Writing
-         🖌️ Drawing Illustrations
-         📸 Photography
-         ⚙️ Basic Image and Video Editing
-         📚 Reading books and quotes
-- 📫 You can reach me at:
-         Email- kumariabhilasha425@gmail.com 
-         Discord- Abhilasha#3048 
-         LinkedIn- abhilasha01
+- 📌 My major hobbies include: 📝 Content Writing 🖌️ Drawing Illustrations 📸 Photography ⚙️ Basic Image and Video Editing 📚 Reading books and quotes
+- 📫 You can reach me at: 📍Email- kumariabhilasha425@gmail.com  📍Discord- Abhilasha#3048  📍LinkedIn- abhilasha01
 
 
 <!---
