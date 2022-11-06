@@ -8,15 +8,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhilashaa05" alt="abhilashaa05" /></a> </p>
 
-- 🔭 I’m currently working on **a sample portfolio website and some other frontend stuff..**
+- 🔭 I’m currently working on projects using html,css,javascript.
 
-- 🌱 I’m currently learning **Javascript and Data Structure and Algorithms, React js**
+- 🌱 I’m currently learning Javascript, Data Structure and Algorithms
 
-- 👯 I’m looking to collaborate on **projects related to frontend and backend.**
+- 👯 I’m looking to collaborate on projects related to frontend and backend.
 
-- 💬 Ask me about **C, C++, HTML, CSS, Javascript, Python**
+- 💬 Ask me about C, C++, HTML, CSS, Javascript, Python
 
 - 📫 Mail me on **kumariabhilasha425@gmail.com**
+
+- 📌 Find my resume on https://drive.google.com/file/d/1qcilnRlz2qN1BNu_YxMROaEp-ROJvyx4/view?usp=share_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
