@@ -16,13 +16,13 @@
 
 - 💬 Ask me about C, C++, HTML, CSS, Javascript, Python
 
-- 📫 Mail me on **kumariabhilasha425@gmail.com**
+- 📫 Mail me on abhilashaaa05@gmail.com
 
 - 📌 Find my resume on https://drive.google.com/file/d/1qcilnRlz2qN1BNu_YxMROaEp-ROJvyx4/view?usp=share_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abhilasha kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhilasha kumari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhilasha01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhilasha kumari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
