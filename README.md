@@ -2,18 +2,18 @@
   <img src="https://media.giphy.com/media/xT9IgyaftFIcZNphcI/giphy.gif" height= "180" width="900"/>
 </div>
 <h1 align="center">Hey, I'm Abhilasha</h1>
-<h3 align="center">A Frontend Developer</h3>
+<h3 align="center">Machine Learning Engineer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhilashaa05&label=Profile%20views&color=0e75b6&style=flat" alt="abhilashaa05" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhilashaa05" alt="abhilashaa05" /></a> </p>
 
-- 🔭 I’m currently working on projects using html,css,javascript.
+- 🔭 I’m currently exploring the field of Machine Learning and Deep Learning.
 
-- 🌱 I’m currently learning Javascript, Data Structure and Algorithms
+- 🌱 I’m currently learning Data Structure and Algorithms
 
-- 👯 I’m looking to collaborate on projects related to frontend and backend.
+- 👯 I’m looking to collaborate on projects related to ML.
 
-- 💬 Ask me about C, C++, HTML, CSS, Javascript, Python
+- 💬 Ask me about C, C++, Python, SQL
 
 - 📫 Mail me on abhilashaaa05@gmail.com
 
