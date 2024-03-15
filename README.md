@@ -13,7 +13,7 @@
 
 - 📫 Mail me on abhilashaaa05@gmail.com
 
-- 📌 Find my resume on https://drive.google.com/file/d/1qcilnRlz2qN1BNu_YxMROaEp-ROJvyx4/view?usp=share_link
+- 📌 Find my resume on https://drive.google.com/file/d/1w6oV6IYXvLlKpgBQALvBzmf7CbbyFAhI/view?usp=drivesdk
 
 <br>
 <h3 align="left">Connect with me:</h3>
